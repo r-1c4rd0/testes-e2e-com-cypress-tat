@@ -8,8 +8,7 @@ module.exports = defineConfig({
 		env: {
 			viewportWidthBreakpoint: 768,
 		},
-		setupNodeEvents(on, config) {
-			// implement node event listeners here
-		},
+		
 	},
+	projectId: "anskfw",
 })
