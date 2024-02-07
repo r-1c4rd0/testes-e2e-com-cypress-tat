@@ -42,6 +42,7 @@ Run `npm run cy:open:tablet` to open the __Cypress App__ to run tests in interac
 
 ___
 
-Made with ❤️ by [Ricardo](https://github.com/r-1c4rd0/testes-e2e-com-cypress).
+Made with ❤️ by [Ricardo](https://github.com/r-1c4rd0/testes-e2e-com-cypress). 
 
-run action...
+
+
